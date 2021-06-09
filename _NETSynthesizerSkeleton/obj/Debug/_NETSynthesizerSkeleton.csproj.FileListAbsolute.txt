@@ -1,0 +1,39 @@
+C:\Files\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\bin\Debug\_NETSynthesizerSkeleton.exe.config
+C:\Files\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\bin\Debug\_NETSynthesizerSkeleton.exe
+C:\Files\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\bin\Debug\_NETSynthesizerSkeleton.pdb
+C:\Files\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\obj\Debug\_NETSynthesizerSkeleton.csprojAssemblyReference.cache
+C:\Files\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\obj\Debug\_NETSynthesizerSkeleton.Properties.Resources.resources
+C:\Files\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\obj\Debug\_NETSynthesizerSkeleton.csproj.GenerateResource.cache
+C:\Files\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\obj\Debug\_NETSynthesizerSkeleton.csproj.CoreCompileInputs.cache
+C:\Files\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\obj\Debug\_NETSynthesizerSkeleton.exe
+C:\Files\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\obj\Debug\_NETSynthesizerSkeleton.pdb
+C:\Files\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\obj\Debug\_NETSynthesizerSkeleton.Skeleton.resources
+C:\Files\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\bin\Debug\MathNet.Numerics.dll
+C:\Files\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\bin\Debug\MathNet.Numerics.xml
+C:\Files\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\obj\Debug\_NETSynthesizerSkeleton.csproj.CopyComplete
+E:\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\bin\Debug\_NETSynthesizerSkeleton.exe.config
+E:\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\bin\Debug\_NETSynthesizerSkeleton.exe
+E:\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\bin\Debug\_NETSynthesizerSkeleton.pdb
+E:\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\bin\Debug\MathNet.Numerics.dll
+E:\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\bin\Debug\MathNet.Numerics.xml
+E:\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\obj\Debug\_NETSynthesizerSkeleton.csprojAssemblyReference.cache
+E:\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\obj\Debug\_NETSynthesizerSkeleton.Skeleton.resources
+E:\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\obj\Debug\_NETSynthesizerSkeleton.Properties.Resources.resources
+E:\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\obj\Debug\_NETSynthesizerSkeleton.csproj.GenerateResource.cache
+E:\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\obj\Debug\_NETSynthesizerSkeleton.csproj.CoreCompileInputs.cache
+E:\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\obj\Debug\_NETSynthesizerSkeleton.csproj.CopyComplete
+E:\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\obj\Debug\_NETSynthesizerSkeleton.exe
+E:\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\obj\Debug\_NETSynthesizerSkeleton.pdb
+G:\Computer Reset\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\bin\Debug\_NETSynthesizerSkeleton.exe.config
+G:\Computer Reset\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\bin\Debug\_NETSynthesizerSkeleton.exe
+G:\Computer Reset\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\bin\Debug\_NETSynthesizerSkeleton.pdb
+G:\Computer Reset\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\bin\Debug\MathNet.Numerics.dll
+G:\Computer Reset\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\bin\Debug\MathNet.Numerics.xml
+G:\Computer Reset\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\obj\Debug\_NETSynthesizerSkeleton.csprojAssemblyReference.cache
+G:\Computer Reset\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\obj\Debug\_NETSynthesizerSkeleton.Skeleton.resources
+G:\Computer Reset\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\obj\Debug\_NETSynthesizerSkeleton.Properties.Resources.resources
+G:\Computer Reset\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\obj\Debug\_NETSynthesizerSkeleton.csproj.GenerateResource.cache
+G:\Computer Reset\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\obj\Debug\_NETSynthesizerSkeleton.csproj.CoreCompileInputs.cache
+G:\Computer Reset\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\obj\Debug\_NETSynthesizerSkeleton.csproj.CopyComplete
+G:\Computer Reset\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\obj\Debug\_NETSynthesizerSkeleton.exe
+G:\Computer Reset\Files\Object Oriented Code\VST\_NETSynthesizerSkeleton\_NETSynthesizerSkeleton\obj\Debug\_NETSynthesizerSkeleton.pdb
